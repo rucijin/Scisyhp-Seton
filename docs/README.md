@@ -1,0 +1,22 @@
+---
+pageLayout: home
+externalLinkIcon: false
+config:
+  -
+    type: hero
+    full: true
+    background: tint-plate
+    hero:
+      name: Trival!
+      tagline: 42 = 11+45-14
+      text: 👐 A 🙌 dirty 👌 work ☝️
+      actions:
+        -
+          theme: brand
+          text: 笔记
+          link: /note/
+        -
+          theme: alt
+          text: Github →
+          link: https://github.com/pengzhanbo/vuepress-theme-plume
+---
