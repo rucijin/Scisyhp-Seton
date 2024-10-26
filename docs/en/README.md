@@ -7,9 +7,9 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: A simple, feature-rich, document & blog
+      name: Trival!
+      tagline: 42 = 11+45-14
+      text: 👐 A 🙌 dirty 👌 work ☝️
       actions:
         -
           theme: brand
