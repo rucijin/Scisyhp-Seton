@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/Sciyhp-Seton/',
+  base: '/Scisyhp-Seton/',
   lang: 'zh-CN',
   locales: {
     '/': {
