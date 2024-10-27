@@ -7,7 +7,7 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Trival!
+      name: Trivial!
       tagline: 42 = 11+45-14
       text: 👐 A 🙌 dirty 👌 work ☝️
       actions:
