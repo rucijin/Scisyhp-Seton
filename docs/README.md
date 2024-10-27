@@ -14,7 +14,11 @@ config:
         -
           theme: brand
           text: 笔记
-          link: /notes/demo/
+          link: /notes/home/
+        -
+          theme: brand
+          text: 博客
+          link: /blog/
         -
           theme: alt
           text: Github →

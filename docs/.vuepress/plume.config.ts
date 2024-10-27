@@ -17,6 +17,8 @@ export default defineThemeConfig({
     { icon: 'github', link: '/' },
   ],
 
+  blog: {pagination: false},
+
   locales: {
     '/': {
       profile: {
