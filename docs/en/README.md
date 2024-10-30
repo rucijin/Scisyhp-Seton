@@ -7,7 +7,7 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Trival!
+      name: Trivial!
       tagline: 42 = 11+45-14
       text: 👐 A 🙌 dirty 👌 work ☝️
       actions:
@@ -16,7 +16,11 @@ config:
           text: Blog
           link: /en/blog/
         -
+          theme: brand
+          text: notes
+          link: /en/notes/home/
+        -
           theme: alt
           text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          link: https://github.com/rucijin/Scisyhp-Seton
 ---
