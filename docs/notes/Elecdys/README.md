@@ -1,6 +1,5 @@
 ---
 title: Elecdys
-createTime: 2024/10/27 19:09:31
+createTime: 2024/11/03 13:30:58
 permalink: /Elecdys/
 ---
-[麦克斯韦方程组](1.麦克斯韦方程组.md)

@@ -14,7 +14,7 @@ config:
         -
           theme: brand
           text: 笔记
-          link: /notes/home/
+          link: /notes/
         -
           theme: brand
           text: 博客

@@ -8,13 +8,13 @@ import { enNotes, zhNotes } from './notes'
 export default defineThemeConfig({
   logo: 'https://theme-plume.vuejs.press/plume.png',
   // your git repo url
-  docsRepo: '',
+  docsRepo: 'https://github.com/rucijin/Scisyhp-Seton',
   docsDir: 'docs',
 
   appearance: true,
 
   social: [
-    { icon: 'github', link: '/' },
+    { icon: 'github', link: 'https://rucijin.github.io/' },
   ],
 
   blog: {pagination: false},
@@ -22,9 +22,9 @@ export default defineThemeConfig({
   locales: {
     '/': {
       profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        avatar: 'https://getwallpapers.com/wallpaper/full/4/b/8/12828.jpg',
         name: 'Scisyhp Seton',
-        description: 'Dirty work',
+        // description: 'Dirty work',
         // circle: true,
         // location: '',
         // organization: '',
@@ -35,9 +35,9 @@ export default defineThemeConfig({
     },
     '/en/': {
       profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        avatar: 'https://getwallpapers.com/wallpaper/full/4/b/8/12828.jpg',
         name: 'Scisyhp Seton',
-        description: 'Dirty work',
+        // description: 'Dirty work',
         // circle: true,
         // location: '',
         // organization: '',

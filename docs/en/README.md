@@ -13,12 +13,12 @@ config:
       actions:
         -
           theme: brand
-          text: Blog
-          link: /en/blog/
+          text: notes
+          link: /en/notes/
         -
           theme: brand
-          text: notes
-          link: /en/notes/home/
+          text: Blog
+          link: /en/blog/
         -
           theme: alt
           text: Github →

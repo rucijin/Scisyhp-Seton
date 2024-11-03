@@ -1,6 +1,5 @@
 ---
 title: Math
-createTime: 2024/10/27 19:09:47
+createTime: 2024/11/03 14:04:49
 permalink: /Math/
 ---
-这里什么都没有......
