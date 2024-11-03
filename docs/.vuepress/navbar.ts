@@ -25,7 +25,7 @@ export const enNavbar = defineNavbarConfig([
   { text: 'Tags', link: '/en/blog/tags/' },
   { text: 'Archives', link: '/en/blog/archives/' },
   { text: 'Notes',
-    items: [{text: 'English Learning', link: '/English/'}]
+    items: [{text: 'English Learning', link: '/en/English/'}]
   },
 ])
 
