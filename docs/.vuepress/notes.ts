@@ -20,6 +20,12 @@ const zhPhysicsNote = defineNoteConfig({
   sidebar: 'auto',
 })
 
+const zhPhysmodNote = defineNoteConfig({
+  dir: 'Physmod',
+  link: '/Physmod/',
+  sidebar: 'auto',
+})
+
 const zhMechanicsNote = defineNoteConfig({
   dir: 'Mechanics',
   link: '/Mechanics/',
@@ -62,6 +68,7 @@ export const zhNotes = defineNotesConfig({
   notes: [
     zhMathNote,
     zhPhysicsNote,
+    zhPhysmodNote,
     zhElecdysNote,
     zhMechanicsNote,
     zhQuantumNote,

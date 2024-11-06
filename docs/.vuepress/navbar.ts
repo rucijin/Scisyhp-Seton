@@ -8,13 +8,14 @@ export const zhNavbar = defineNavbarConfig([
   { text: '笔记',
     items: [
       {text: '普通物理', link: '/Physics/'},
+      {text: '近代物理', link: '/Physmod/'},
       {text: '分析力学', link: '/Mechanics/'},
       {text: '电动力学', link: '/Elecdys/'},
       {text: '统计物理', link: '/Statsanics/'},
       {text: '量子力学', link: '/Quantum/'},
-      {text: '场论', link: 'Fieldt'},
-      {text: '群论', link: '/Groupt'},
-      {text: '微积分与矢量分析', link: 'Calvec'},
+      // {text: '场论', link: 'Fieldt'},
+      // {text: '群论', link: '/Groupt'},
+      // {text: '微积分与矢量分析', link: 'Calvec'},
     ]
   },
 ])
